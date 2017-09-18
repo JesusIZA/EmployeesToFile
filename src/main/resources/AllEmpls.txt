@@ -1,0 +1,6 @@
+class сlasses.EmployeeFixedPayment -> 1 Jesus 2000
+class сlasses.EmployeeFixedPayment -> 2 Sarah 3000
+class сlasses.EmployeeFixedPayment -> 3 Sasha 4000
+class сlasses.EmployeeHourlyWage -> 4 Foma 7
+class сlasses.EmployeeHourlyWage -> 5 Kolia 6
+class сlasses.EmployeeHourlyWage -> 6 Lena 5

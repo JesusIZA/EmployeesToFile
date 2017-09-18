@@ -61,6 +61,7 @@ public class Main {
 
 */
 
+
         for (int i = 1; i < 10; i++) {
             if (i % 2 == 1){
                 employees.add(new EmployeeFixedPayment(i, "nameFP" + i, 1000 + i * 50));
